@@ -329,3 +329,11 @@ button.btn-contact {
     padding: 1.5rem;
   }
 }
+
+#loader {
+    background: ghostwhite url("https://i.pinimg.com/originals/af/82/b5/af82b53d11df6ca1bb369a11c76d8ae0.gif") no-repeat center;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    z-index: 99999;
+}
